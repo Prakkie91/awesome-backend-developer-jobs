@@ -16,7 +16,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
 
-* **[Senior Full Stack Engineer II](https://job-boards.greenhouse.io/alma/jobs/8020953002)** — _n/a_ _(posted 2025-06-03)_
 * **[Senior Full Stack Engineer](https://job-boards.greenhouse.io/alma/jobs/7997719002)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nynfgxku2h5oy29qrpd4.webp" width="24" height="24" alt="Ampere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ampere](https://jobo.world/company/Ampere)
@@ -220,6 +219,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Staff Software Engineer - UI (Remote)](https://jobs.ashbyhq.com/machinify/9c2e9c17-91bd-450e-84c4-8345c0d17166)** — _n/a_ _(posted 2025-03-12)_
 * **[Staff Software Engineer, Backend (Remote)](https://jobs.ashbyhq.com/machinify/fc80286a-1441-4e55-8e9f-a2aaf5df4ed1)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nboxtlr5jspiue29x9ji.webp" width="24" height="24" alt="Madhive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Madhive](https://jobo.world/company/Madhive)
+
+* **[Backend Engineer](https://jobs.ashbyhq.com/madhive/220a1d5f-3023-4b25-b626-14cdd9d47d0b)** — _n/a_ _(posted 2025-06-13)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
@@ -332,4 +335,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-13_
+_Updated automatically — 2025-06-14_
