@@ -134,6 +134,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Engineer (Back-End)](https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f)** — _n/a_ _(posted 2025-03-12)_
 * **[Forward Deployed Engineer](https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
+
+* **[Backend Software Engineer ](https://jobs.ashbyhq.com/feathr/8056b0c9-8c4c-4ad6-a09f-a2709257e400)** — ¤90,000 USD _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
 * **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
@@ -175,7 +179,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/hs/jobs/6564414)** — ¤122,400 – ¤195,500 USD _(posted 2025-05-17)_
 * **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
-* **[Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6786108)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
 
@@ -250,6 +253,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
+* **[Software Engineer, Full Stack (Platform) ](https://jobs.ashbyhq.com/radai/c1149a4e-8c78-4731-8398-46c0b6c6d28d)** — ¤125,000 – ¤150,000 USD _(posted 2025-06-19)_
 * **[Software Engineer, Full Stack ](https://jobs.ashbyhq.com/radai/13ccec43-7bc0-4fc6-bec2-2df2d8cb7448)** — ¤125,000 – ¤150,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ensgjxchya3m8sf9hyym.webp" width="24" height="24" alt="ReadMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ReadMe](https://jobo.world/company/ReadMe)
@@ -265,10 +269,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tj4mug1agf28wwi1479z.webp" width="24" height="24" alt="Rockbot logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rockbot](https://jobo.world/company/Rockbot)
 
 * **[Senior Software Engineer](https://boards.greenhouse.io/rockbot/jobs/5194216004)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wctfsagj7qjonhls3og0.webp" width="24" height="24" alt="Rula logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rula](https://jobo.world/company/Rula)
-
-* **[Sr. Software Engineer - Provider Access (Remote)](https://jobs.ashbyhq.com/rula/92f06706-7902-4b27-b4f1-285a1f8b408b)** — ¤162,900 – ¤191,600 USD _(posted 2025-06-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v0km7tywfzu4vdowmdeu.webp" width="24" height="24" alt="Runwise logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Runwise](https://jobo.world/company/Runwise)
 
@@ -329,4 +329,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
