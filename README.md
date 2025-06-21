@@ -20,6 +20,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
 
+* **[Senior Full Stack Engineer II](https://job-boards.greenhouse.io/alma/jobs/8020953002)** — _n/a_ _(posted 2025-06-03)_
 * **[Senior Full Stack Engineer](https://job-boards.greenhouse.io/alma/jobs/7997719002)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nynfgxku2h5oy29qrpd4.webp" width="24" height="24" alt="Ampere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ampere](https://jobo.world/company/Ampere)
@@ -88,6 +89,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer, Back End](https://jobs.ashbyhq.com/commonroom/89b497f8-e70b-4762-b14f-cc98bff2f1bd)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
+
+* **[Developer Success Engineer - West](https://job-boards.greenhouse.io/dagsterlabs/jobs/6577667003)** — ¤60,000 – ¤80,000 USD _(posted 2025-05-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rahgnygk76v2f6qsmbiq.webp" width="24" height="24" alt="Dapper Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dapper Labs](https://jobo.world/company/DapperLabs)
 
 * **[Staff Backend Engineer](https://jobs.lever.co/axiomzen/39197a71-d2c6-47de-8ff9-744db4ec335a)** — _n/a_ _(posted 2025-04-15)_
@@ -136,7 +141,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/argzwcefwksmmvpljfhj.webp" width="24" height="24" alt="Feather logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Feather](https://jobo.world/company/Feather)
 
-* **[Backend Software Engineer ](https://jobs.ashbyhq.com/feathr/8056b0c9-8c4c-4ad6-a09f-a2709257e400)** — ¤90,000 USD _(posted 2025-06-19)_
+* **[Backend Software Engineer ](https://jobs.ashbyhq.com/feathr/29a8a53c-da5b-4d92-9e14-aa3caa251192)** — ¤90,000 USD _(posted 2025-06-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
@@ -166,10 +171,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
 * **[Senior Software Engineer, Ecosystem](https://job-boards.greenhouse.io/getbuilt/jobs/4547059005)** — _n/a_ _(posted 2025-04-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
-
-* **[Senior Frontend Engineer](https://jobs.lever.co/goodleap/68d88e84-b8f9-4104-8083-09a68430ec3d)** — ¤146,000 – ¤170,000 USD _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -274,10 +275,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Backend Engineer](https://job-boards.greenhouse.io/runwise/jobs/4575548006)** — _n/a_ _(posted 2025-06-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/u3ko06mvu5nvizavxsix.webp" width="24" height="24" alt="RxSense logo" style="vertical-align:middle"/>&nbsp;&nbsp;[RxSense](https://jobo.world/company/RxSense)
-
-* **[Senior Software Engineer - ME](https://job-boards.greenhouse.io/rxsense/jobs/4555289005)** — _n/a_ _(posted 2025-04-18)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oaw4ct5gyw4fxhtdshgo.webp" width="24" height="24" alt="Sanity logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sanity](https://jobo.world/company/Sanityio)
 
 * **[Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/sanity/1a65a601-7e23-46b7-8c40-2ac57e87bbab)** — _n/a_ _(posted 2025-06-11)_
@@ -329,4 +326,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
