@@ -69,6 +69,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
 
+* **[Sr. Manager, Software Engineering](https://cars.wd12.myworkdayjobs.com/cars/job/Remote---Illinois/Sr-Manager--Software-Engineering_JR10591)** — _n/a_ _(posted 2025-06-27)_
 * **[FRONT END LEAD SOFTWARE ENGINEER  - STAFF](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/FRONT-END-LEAD-SOFTWARE-ENGINEER----STAFF_JR10489)** — _n/a_ _(posted 2025-06-16)_
 * **[Sr. Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Software-Engineer_JR10399-1)** — _n/a_ _(posted 2025-05-21)_
 
@@ -92,10 +93,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hzuavimik16xkwurk8st.webp" width="24" height="24" alt="Cribl logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cribl](https://jobo.world/company/Cribl)
 
 * **[Senior Software Engineer](https://job-boards.greenhouse.io/cribl/jobs/5568690004)** — _n/a_ _(posted 2025-06-24)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/v13qsi5yj0mn7o2emyf8.webp" width="24" height="24" alt="Dagster Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dagster Labs](https://jobo.world/company/Dagster-Labs)
-
-* **[Developer Success Engineer - West](https://job-boards.greenhouse.io/dagsterlabs/jobs/6577667003)** — ¤60,000 – ¤80,000 USD _(posted 2025-05-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rahgnygk76v2f6qsmbiq.webp" width="24" height="24" alt="Dapper Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dapper Labs](https://jobo.world/company/DapperLabs)
 
@@ -188,10 +185,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/9da6879d-343b-4671-bca3-ea4d6f799fbd)** — _n/a_ _(posted 2025-06-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
 * **[Staff Software Engineer](https://job-boards.greenhouse.io/jobber/jobs/7973786002)** — _n/a_ _(posted 2025-04-26)_
@@ -224,6 +217,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hoiffrjwxhjbscx2ws1q.webp" width="24" height="24" alt="OpenSea logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenSea](https://jobo.world/company/OpenSea)
 
 * **[Staff Backend Engineer](https://jobs.ashbyhq.com/opensea/bd865eca-95dd-4efe-9304-d64532d20c69)** — ¤190,000 – ¤345,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ius1mxcu5iwevowrje3y.webp" width="24" height="24" alt="Paytient logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Paytient](https://jobo.world/company/Paytient)
+
+* **[Sr Platform Engineer](https://job-boards.greenhouse.io/paytient/jobs/4775601007)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
@@ -323,4 +320,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
