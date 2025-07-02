@@ -73,6 +73,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[FRONT END LEAD SOFTWARE ENGINEER  - STAFF](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/FRONT-END-LEAD-SOFTWARE-ENGINEER----STAFF_JR10489)** — _n/a_ _(posted 2025-06-16)_
 * **[Sr. Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Software-Engineer_JR10399-1)** — _n/a_ _(posted 2025-05-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
+
+* **[Sr. Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Sr-Software-Engineer_JR7989-1)** — _n/a_ _(posted 2025-06-30)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
 * **[Senior Software Engineer - Backend/Python (USA Only - 100% Remote)](https://jobs.ashbyhq.com/close/01fc4ad7-4d33-4f64-919f-502bb2c20efc)** — ¤140,000 – ¤210,000 USD _(posted 2025-03-12)_
@@ -112,10 +116,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer II (Front-End)](https://job-boards.greenhouse.io/demandbase/jobs/6901652)** — _n/a_ _(posted 2025-05-21)_
 * **[Developer Relations Engineer](https://job-boards.greenhouse.io/demandbase/jobs/6661428)** — ¤93,000 – ¤139,000 USD _(posted 2025-04-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/k92vxngybvwdc18je6xi.webp" width="24" height="24" alt="Dev Technology Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dev Technology Group](https://jobo.world/company/DevTechGrp)
-
-* **[Full Stack Developer (Java/GoLang)](https://job-boards.greenhouse.io/devtechnology/jobs/7983506002)** — _n/a_ _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
 
@@ -172,10 +172,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
 * **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
-
-* **[Senior Frontend Engineer - US Remote](https://apply.workable.com/huggingface/j/09B44FE57C/)** — _n/a_ _(posted 2025-05-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uxzsxi5shmjsoxmamfjh.webp" width="24" height="24" alt="Human Interest logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Human Interest](https://jobo.world/company/Human-Interest)
 
@@ -236,6 +232,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Developer Support Engineer ](https://jobs.ashbyhq.com/privy/ae753507-3c0f-40f5-9779-0d6035dee941)** — _n/a_ _(posted 2025-04-29)_
 * **[Senior/Staff Platform Software Engineer](https://jobs.ashbyhq.com/privy/4b3161d7-f508-44b3-9a7f-23448ab7664a)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-25)_
 * **[Senior/Staff Infrastructure Engineer](https://jobs.ashbyhq.com/privy/c97993ab-42cc-49d1-bef2-f2905c7437ce)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vzdl5nx8w50uyjclka0b.webp" width="24" height="24" alt="Public logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Public](https://jobo.world/company/Public)
+
+* **[API Developer Evangelist](https://job-boards.greenhouse.io/public/jobs/6625830003)** — _n/a_ _(posted 2025-07-01)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -320,4 +320,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
