@@ -18,10 +18,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Developer Support Engineer](https://job-boards.greenhouse.io/airtable/jobs/7940694002)** — _n/a_ _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
-
-* **[Senior Full Stack Engineer](https://job-boards.greenhouse.io/alma/jobs/7997719002)** — ¤140,000 – ¤180,000 USD _(posted 2025-05-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nynfgxku2h5oy29qrpd4.webp" width="24" height="24" alt="Ampere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ampere](https://jobo.world/company/Ampere)
 
 * **[Senior Software Engineer - Full Stack](https://jobs.ashbyhq.com/amper/0764e220-9af6-402f-8ebf-ce6ffdd296bf)** — _n/a_ _(posted 2025-03-12)_
@@ -64,6 +60,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pudwuuka8ejmvqkrh7cz.webp" width="24" height="24" alt="Calendly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Calendly](https://jobo.world/company/Calendly)
 
+* **[Full Stack Engineer, Contact Management](https://job-boards.greenhouse.io/calendly/jobs/7972058002)** — _n/a_ _(posted 2025-07-03)_
 * **[Staff Full Stack Engineer (Backend Focused)](https://boards.greenhouse.io/calendly/jobs/7970684002)** — _n/a_ _(posted 2025-04-24)_
 * **[Senior Full Stack Engineer](https://boards.greenhouse.io/calendly/jobs/7967935002)** — _n/a_ _(posted 2025-04-23)_
 
@@ -323,4 +320,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-03_
+_Updated automatically — 2025-07-04_
