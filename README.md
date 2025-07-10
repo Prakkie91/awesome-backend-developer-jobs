@@ -36,10 +36,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer - Internal Platform](https://jobs.ashbyhq.com/baseten/081cb52b-5e88-40a1-8def-1e82c8bc97de)** — ¤150,000 – ¤200,000 USD _(posted 2025-03-27)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
-
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gpfc82azslc17w3xudzi.webp" width="24" height="24" alt="Bestow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Bestow](https://jobo.world/company/Bestow)
 
 * **[Senior Backend Engineer (Go)](https://jobs.ashbyhq.com/bestow/d1364320-6a98-4dbe-8b21-bf6ef52b36e1)** — ¤145,000 – ¤160,000 USD _(posted 2025-03-12)_
@@ -148,7 +144,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
-* **[Senior Software Engineer, Backend](https://job-boards.greenhouse.io/flex/jobs/4577351005)** — _n/a_ _(posted 2025-06-18)_
+* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
@@ -209,6 +205,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iplvtgvi2kp1xiajfgg9.webp" width="24" height="24" alt="Olo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Olo](https://jobo.world/company/Olo)
+
+* **[Senior Software Engineer II - Host [United Kingdom]](https://jobs.lever.co/olo/6f106f98-650d-4adf-bf71-415af98509d6)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hoiffrjwxhjbscx2ws1q.webp" width="24" height="24" alt="OpenSea logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenSea](https://jobo.world/company/OpenSea)
 
@@ -332,4 +332,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
