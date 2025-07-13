@@ -24,12 +24,17 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ccrorvk5avxtpdxi77lc.webp" width="24" height="24" alt="Apollo.io logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Apollo.io](https://jobo.world/company/Apollo-io)
 
+* **[Senior Backend Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5587410004)** — _n/a_ _(posted 2025-07-12)_
 * **[Senior Frontend Engineer](https://job-boards.greenhouse.io/apolloio/jobs/5394326004)** — _n/a_ _(posted 2025-05-16)_
 * **[Senior Data Platform Engineer](https://boards.greenhouse.io/apolloio/jobs/5497581004)** — _n/a_ _(posted 2025-04-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
 * **[Backend Engineer (Remote)](https://jobs.ashbyhq.com/reteam/714121ad-59e8-49b1-ad56-244a89de574c)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gs61rxdb5anhhiq0hy2b.webp" width="24" height="24" alt="AuditBoard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AuditBoard](https://jobo.world/company/AuditBoard)
+
+* **[Senior Software Engineer, XC Frameworks (Remote)](https://jobs.ashbyhq.com/auditboard/26da7163-bf08-4c9c-889b-820f0789ae4b)** — ¤128,000 – ¤192,000 USD _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ph6ruwagmcxam6qc1xb9.webp" width="24" height="24" alt="Baseten logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baseten](https://jobo.world/company/Baseten)
 
@@ -83,7 +88,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
 * **[Senior Software Engineer, Frontend (Institutional - Products)](https://boards.greenhouse.io/cbreferral/jobs/6659086)** — _n/a_ _(posted 2025-03-14)_
-* **[Software Engineer, Backend (Consumer Products)](https://boards.greenhouse.io/cbreferral/jobs/5963349)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hls9a14lzek1zhhs6w21.webp" width="24" height="24" alt="Cointracker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cointracker](https://jobo.world/company/Cointracker)
 
@@ -181,7 +185,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Senior Backend Engineer - Real-time data processing](https://jobs.ashbyhq.com/jerry/1a4399fa-1cb2-4971-83d1-e5f1e4d5c127)** — _n/a_ _(posted 2025-07-08)_
+* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/400664d7-7e38-4bb9-bd67-6f37fa5a3efb)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ratwa3kr7uy5rlny0zky.webp" width="24" height="24" alt="Jobber logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jobber](https://jobo.world/company/Jobber)
 
@@ -211,6 +215,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uamn2vkunawj5bewbf2z.webp" width="24" height="24" alt="Octopus Energy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Octopus Energy](https://jobo.world/company/Octopus-energy)
+
+* **[Backend Engineer II](https://jobs.lever.co/octoenergy/976d4322-3753-4754-a12e-3aa78d41290b)** — _n/a_ _(posted 2025-07-11)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/iplvtgvi2kp1xiajfgg9.webp" width="24" height="24" alt="Olo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Olo](https://jobo.world/company/Olo)
 
 * **[Senior Software Engineer II - Host [United Kingdom]](https://jobs.lever.co/olo/6f106f98-650d-4adf-bf71-415af98509d6)** — _n/a_ _(posted 2025-07-08)_
@@ -218,10 +226,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hoiffrjwxhjbscx2ws1q.webp" width="24" height="24" alt="OpenSea logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenSea](https://jobo.world/company/OpenSea)
 
 * **[Staff Backend Engineer](https://jobs.ashbyhq.com/opensea/bd865eca-95dd-4efe-9304-d64532d20c69)** — ¤190,000 – ¤345,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zvn1ylulhsyyowqu95ym.webp" width="24" height="24" alt="PatientPoint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PatientPoint](https://jobo.world/company/PatientPoint)
-
-* **[Staff Software Engineer - Ad Tech](https://job-boards.greenhouse.io/patientpoint/jobs/4582790005)** — _n/a_ _(posted 2025-07-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
 
@@ -307,10 +311,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[DevOps Engineer](https://job-boards.greenhouse.io/tebra/jobs/4575246005)** — _n/a_ _(posted 2025-07-08)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfkrdgixrm2elf7w9po8.webp" width="24" height="24" alt="thatgamecompany logo" style="vertical-align:middle"/>&nbsp;&nbsp;[thatgamecompany](https://jobo.world/company/Thatgamecompany)
-
-* **[Full Stack Engineer](https://jobs.ashbyhq.com/thatgamecompany/85301a13-4771-4151-ae20-92e3987faa0f)** — _n/a_ _(posted 2025-05-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
 
 * **[Senior Software Engineer - Fullstack (Remote, United States) ](https://jobs.ashbyhq.com%2Fthe%2520zebra%2F8d55edd8-466d-40cc-a64d-63f7c5e4616e)** — _n/a_ _(posted 2025-05-17)_
@@ -329,4 +329,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com%2Fwordly.ai%2520careers%2F987710c3-9c37-43d0-9381-26f751d22237)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-12_
+_Updated automatically — 2025-07-13_
