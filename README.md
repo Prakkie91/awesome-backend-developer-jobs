@@ -130,6 +130,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer, Safety Processing](https://job-boards.greenhouse.io/discord/jobs/7990178002)** — ¤160,000 – ¤180,000 USD _(posted 2025-05-28)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
+
+* **[Senior Software Engineer- Edge Server](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4568437006)** — _n/a_ _(posted 2025-05-17)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
 
 * **[Lead Software Engineer](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Lead-Software-Engineer_JR11595-1)** — _n/a_ _(posted 2025-06-24)_
@@ -209,10 +213,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
 
 * **[Software Engineer III, Android - Partnerships](https://boards.greenhouse.io/myfitnesspal/jobs/6763591)** — _n/a_ _(posted 2025-04-02)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uamn2vkunawj5bewbf2z.webp" width="24" height="24" alt="Octopus Energy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Octopus Energy](https://jobo.world/company/Octopus-energy)
-
-* **[Backend Engineer II](https://jobs.lever.co/octoenergy/976d4322-3753-4754-a12e-3aa78d41290b)** — _n/a_ _(posted 2025-07-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
 
@@ -341,4 +341,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
