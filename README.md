@@ -145,10 +145,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Backend Software Engineer ](https://jobs.ashbyhq.com/feathr/29a8a53c-da5b-4d92-9e14-aa3caa251192)** — ¤90,000 USD _(posted 2025-06-20)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjzvua7bmfx6h8mziyhl.webp" width="24" height="24" alt="FiscalNote logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FiscalNote](https://jobo.world/company/FiscalNote)
-
-* **[Principal Software Engineer, DX](https://jobs.lever.co/fiscalnote/6d238973-9d3c-41bf-9670-2b98d3344959)** — _n/a_ _(posted 2025-06-09)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
 * **[Software Engineer II, Backend](https://job-boards.greenhouse.io/flex/jobs/4587454005)** — _n/a_ _(posted 2025-07-18)_
@@ -157,6 +153,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
+* **[Senior Backend Engineer, Mobile](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fce149be0-2d33-4d37-ba82-1b29f0d094df)** — ¤170,000 – ¤190,000 USD _(posted 2025-07-19)_
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e7qzorjtvn5hy2n7zmm5.webp" width="24" height="24" alt="Freshpaint logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Freshpaint](https://jobo.world/company/Freshpaint)
@@ -167,9 +164,9 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Software Engineer, Ecosystem](https://job-boards.greenhouse.io/getbuilt/jobs/4547059005)** — _n/a_ _(posted 2025-04-15)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Software Engineer, Devices - United States](https://jobs.lever.co/jumpcloud/a628ab77-7d4c-4132-ad65-d459ed0a0026)** — _n/a_ _(posted 2025-06-12)_
+* **[Senior Backend Engineer](https://jobs.ashbyhq.com/jerry/5dfc7832-1149-4503-9847-bebe4d1c39e3)** — _n/a_ _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
@@ -284,10 +281,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Senior Software Engineer, Runtime](https://jobs.ashbyhq.com/sanity/1a65a601-7e23-46b7-8c40-2ac57e87bbab)** — _n/a_ _(posted 2025-06-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqpc0cyo5dblxievdyjt.webp" width="24" height="24" alt="sFOX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[sFOX](https://jobo.world/company/sFOX)
-
-* **[Lead API Engineer](https://job-boards.greenhouse.io/sfox/jobs/8079217002)** — _n/a_ _(posted 2025-07-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qvec61w5vxhujtj0tdj6.webp" width="24" height="24" alt="SGNL logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SGNL](https://jobo.world/company/SGNLai)
 
 * **[Software Engineer](https://jobs.ashbyhq.com/sgnlai/3931b0e3-e29b-4472-9255-1783cd3b4364)** — _n/a_ _(posted 2025-03-12)_
@@ -300,6 +293,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wipjaspog6ixymh0ggpq.webp" width="24" height="24" alt="SonicWall logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SonicWall](https://jobo.world/company/SonicWall)
 
 * **[Principal API Engineer – Platform Architecture](https://job-boards.greenhouse.io/sonicwall/jobs/7074851)** — _n/a_ _(posted 2025-07-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm6ezzejekto90ryx6xf.webp" width="24" height="24" alt="Splice logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Splice](https://jobo.world/company/Splice)
+
+* **[Senior Software Engineer II (Remote - US)](https://job-boards.greenhouse.io/splice/jobs/8080364002)** — _n/a_ _(posted 2025-07-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zudb6wgj2v9zfl4bikwt.webp" width="24" height="24" alt="Standard Metrics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Metrics](https://jobo.world/company/Standard-Metrics)
 
@@ -344,4 +341,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-19_
+_Updated automatically — 2025-07-20_
