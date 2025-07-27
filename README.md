@@ -194,10 +194,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Backend Engineer - Rust - Financial Systems](https://jobs.ashbyhq.com/kraken.com/ad4a45b3-c958-4cbf-86af-5466fe71bd0e)** — ¤127,000 – ¤203,000 USD _(posted 2025-07-17)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
-
-* **[Backend Engineer, Monetization](https://job-boards.greenhouse.io/launchdarkly/jobs/6603165003)** — _n/a_ _(posted 2025-06-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Senior Software Engineer 2, Backend](https://job-boards.greenhouse.io/life360/jobs/7942462002)** — ¤144,500 – ¤213,000 USD _(posted 2025-04-04)_
@@ -322,6 +318,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Staff Backend Engineer (Java)](https://job-boards.greenhouse.io/trackvia/jobs/6648868003)** — _n/a_ _(posted 2025-07-25)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wqvitsgh4wt42fbbnaqo.webp" width="24" height="24" alt="Twin Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Twin Health](https://jobo.world/company/Twin-Health)
+
+* **[Technical Lead, Backend Engineer](https://job-boards.greenhouse.io/twinhealth/jobs/5544067004)** — _n/a_ _(posted 2025-06-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpebiagnv3yocpxflsoy.webp" width="24" height="24" alt="Vanta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Vanta](https://jobo.world/company/Vanta)
 
 * **[Sr. Software Engineer](https://jobs.ashbyhq.com/vanta/adb29c9e-1a28-4a79-a6b1-7928a3028fa6)** — ¤207,000 – ¤244,000 USD _(posted 2025-06-10)_
@@ -335,4 +335,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-26_
+_Updated automatically — 2025-07-27_
