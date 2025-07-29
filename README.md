@@ -182,6 +182,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Senior Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6564350)** — ¤130,000 – ¤180,000 USD _(posted 2025-05-15)_
 * **[Software Engineer, API](https://job-boards.greenhouse.io/hs/jobs/6786108)** — ¤120,000 – ¤160,000 USD _(posted 2025-05-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
+
+* **[Software Engineer - United States](https://jobs.lever.co/jumpcloud/be680844-7a86-44ab-9299-e7ae6befff68)** — _n/a_ _(posted 2025-07-25)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bxtb3il1qhhrkcpc1lfa.webp" width="24" height="24" alt="Kalepa logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalepa](https://jobo.world/company/Kalepa)
 
 * **[Senior Backend Engineer (USA)](https://boards.greenhouse.io/kalepa/jobs/4058343004)** — ¤170,000 – ¤205,000 USD _(posted 2025-03-14)_
@@ -229,10 +233,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gg2chrz7aaejiuiuifhw.webp" width="24" height="24" alt="OpenX logo" style="vertical-align:middle"/>&nbsp;&nbsp;[OpenX](https://jobo.world/company/OpenX)
 
 * **[Software Engineer IV  - API/UI](https://jobs.lever.co/openx/dd0dc6b8-8889-4496-a824-1ec36894e929)** — _n/a_ _(posted 2025-07-23)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
-
-* **[Software Engineer (Ruby on Rails) - Remote](https://jobs.smartrecruiters.com/PayNearMe/744000069180245-software-engineer-ruby-on-rails-remote?oga=true)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
@@ -335,4 +335,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-28_
+_Updated automatically — 2025-07-29_
