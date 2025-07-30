@@ -10,10 +10,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Staff Software Engineer, Client](https://job-boards.greenhouse.io/aerospike/jobs/8017343002)** — _n/a_ _(posted 2025-05-30)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rlsjhcph5ejvjcra2ayk.webp" width="24" height="24" alt="AffiniPay logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AffiniPay](https://jobo.world/company/AffiniPay)
-
-* **[Backend Software Engineer](https://job-boards.greenhouse.io/affinipay1/jobs/4439690006)** — _n/a_ _(posted 2025-04-15)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
 * **[Staff Software Engineer, Backend (Code to Environments)](https://job-boards.greenhouse.io/affirm/jobs/6644732003)** — _n/a_ _(posted 2025-07-23)_
@@ -234,6 +230,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer IV  - API/UI](https://jobs.lever.co/openx/dd0dc6b8-8889-4496-a824-1ec36894e929)** — _n/a_ _(posted 2025-07-23)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yqemedkdlgawstcxy3aq.webp" width="24" height="24" alt="PayNearMe logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PayNearMe](https://jobo.world/company/PayNearMe)
+
+* **[Software Engineer (Ruby on Rails) - Remote](https://jobs.smartrecruiters.com/PayNearMe/744000069180245-software-engineer-ruby-on-rails-remote?oga=true)** — _n/a_ _(posted 2025-07-07)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
 
 * **[Senior Backend Engineer (Endless Commerce)](https://jobs.ashbyhq.com/pear/342c6a70-57be-4e51-955a-54cc8246ed9d)** — _n/a_ _(posted 2025-03-12)_
@@ -335,4 +335,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-07-29_
+_Updated automatically — 2025-07-30_
