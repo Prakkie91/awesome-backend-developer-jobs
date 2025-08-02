@@ -6,6 +6,10 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ---
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xrhzpur0rgprhnivjeq9.webp" width="24" height="24" alt="1Password logo" style="vertical-align:middle"/>&nbsp;&nbsp;[1Password](https://jobo.world/company/1Password)
+
+* **[Senior Developer, Backend](https://jobs.ashbyhq.com/1password/4c013028-8680-4ccf-b2a6-07b47e5363c5)** — _n/a_ _(posted 2025-08-01)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/onmz3yffvx4vbmprmkam.webp" width="24" height="24" alt="Aerospike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aerospike](https://jobo.world/company/Aerospike)
 
 * **[Staff Software Engineer, Client](https://job-boards.greenhouse.io/aerospike/jobs/8017343002)** — _n/a_ _(posted 2025-05-30)_
@@ -13,6 +17,7 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xjv7yomvmvgq2zcdvckv.webp" width="24" height="24" alt="Affirm logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Affirm](https://jobo.world/company/Affirm)
 
 * **[Staff Software Engineer, Backend (Code to Environments)](https://job-boards.greenhouse.io/affirm/jobs/6644732003)** — _n/a_ _(posted 2025-07-23)_
+* **[Senior Software Engineer, Backend (Batch Infrastructure)](https://job-boards.greenhouse.io/affirm/jobs/6618078003)** — _n/a_ _(posted 2025-07-03)_
 * **[Staff Software Engineer - SRE, Backend (Reliability Engineering)](https://job-boards.greenhouse.io/affirm/jobs/6356178003)** — _n/a_ _(posted 2025-05-21)_
 * **[Senior Staff Software Engineer, Backend (Discovery / Search)](https://job-boards.greenhouse.io/affirm/jobs/6494232003)** — _n/a_ _(posted 2025-04-24)_
 
@@ -72,10 +77,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[Sr. Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Software-Engineer--Core-Services_JR10660)** — _n/a_ _(posted 2025-07-10)_
 * **[Sr. Software Engineer](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Sr-Software-Engineer_JR10399-1)** — _n/a_ _(posted 2025-05-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kbjuvkagbkxjkxj883nu.webp" width="24" height="24" alt="Chainlink Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chainlink Labs](https://jobo.world/company/Chainlink-Labs)
-
-* **[Senior Software Engineer, Backend Engineering](https://jobs.ashbyhq.com/chainlink-labs/f35790bc-41dc-4c89-ace2-c7efda9365b3)** — _n/a_ _(posted 2025-07-17)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/di7w3wuft5079bxpits6.webp" width="24" height="24" alt="Clipboard Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clipboard Health](https://jobo.world/company/Clipboard-Health)
 
 * **[Software Engineer, Backend](https://job-boards.greenhouse.io/clipboardhealth/jobs/5430189004)** — _n/a_ _(posted 2025-07-22)_
@@ -86,13 +87,13 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
-* **[Senior Software Engineer, Backend (Platform - CETI)](https://job-boards.greenhouse.io/cbreferral/jobs/6202749)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Software Engineer, Backend (Platform)](https://boards.greenhouse.io/cbreferral/jobs/6112249)** — ¤180,625 – ¤212,000 USD _(posted 2025-03-14)_
 * **[Software Engineer, Backend - Platform](https://boards.greenhouse.io/cbreferral/jobs/5963089)** — _n/a_ _(posted 2025-03-14)_
 * **[Software Engineer, Backend (Consumer Products)](https://boards.greenhouse.io/cbreferral/jobs/5963349)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hls9a14lzek1zhhs6w21.webp" width="24" height="24" alt="Cointracker logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cointracker](https://jobo.world/company/Cointracker)
 
+* **[Senior Backend Engineer, Integrations Core (United States & Canada)](https://jobs.ashbyhq.com/cointracker/9975a4ef-acd1-4fde-a741-cd6f9ea1d4b7)** — _n/a_ _(posted 2025-08-01)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/cointracker/117da092-0201-4a36-87c2-1b1e0e0a1f9e)** — _n/a_ _(posted 2025-07-22)_
 * **[Backend Engineer](https://jobs.ashbyhq.com/cointracker/aeb0a861-4ea7-431b-a520-1a1e59a95418)** — _n/a_ _(posted 2025-07-22)_
 * **[Senior Backend Engineer](https://jobs.ashbyhq.com/cointracker/53d83bdb-233d-454c-95f7-82d24f5bc383)** — _n/a_ _(posted 2025-04-02)_
@@ -216,10 +217,6 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 
 * **[Software Engineer](https://job-boards.greenhouse.io/missionlane/jobs/8038627002)** — _n/a_ _(posted 2025-06-18)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xewkuxz5w0yuazniea16.webp" width="24" height="24" alt="Mosey logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mosey](https://jobo.world/company/MoseyWorks)
-
-* **[Senior Back End Software Engineer](https://jobs.ashbyhq.com/mosey/d7a5d6b3-3941-4fe3-bfd7-6abe0fa26bd6)** — ¤150,000 – ¤195,000 USD _(posted 2025-05-13)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
 
 * **[Software Engineer II](https://job-boards.greenhouse.io/omadahealth/jobs/6913167)** — _n/a_ _(posted 2025-05-28)_
@@ -335,4 +332,4 @@ Browse a wide range of remote Backend Developer positions available globally. Ne
 * **[IT Tech Lead Cloud I](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL-Remote/IT-Tech-Lead-Cloud-I_R21453-1)** — _n/a_ _(posted 2025-07-09)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
